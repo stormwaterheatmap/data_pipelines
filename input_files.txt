@@ -1,0 +1,2 @@
+C:/Users/CNilsen/Documents/repos/data_pipelines/data/traffic/traffic0000000000-0000000000.tif
+C:/Users/CNilsen/Documents/repos/data_pipelines/data/traffic/traffic0000000000-0000032768.tif
