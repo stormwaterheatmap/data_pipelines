@@ -208,7 +208,7 @@
 				"opacity": 0.8			}
 		}
 	},
-	"Runoff": {
+	"Runoff mm": {
 		"discrete": "FALSE",
 		"sourceName": "The Nature Conservancy",
 		"units": "mm/year",
