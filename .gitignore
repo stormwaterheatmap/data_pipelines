@@ -129,3 +129,7 @@ dmypy.json
 .pyre/
 *.tif
 ipynb/output.vrt
+models/.DS_Store
+*.xml
+ipynb/data/.DS_Store
+ipynb/Untitled.ipynb

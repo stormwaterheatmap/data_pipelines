@@ -173,7 +173,7 @@
 				"opacity": 0.8			}
 		}
 	},
-	"Precipitation_mm": {
+	"Precipitation mm": {
 		"discrete": "FALSE",
 		"sourceName": "Salathé et al 2019",
 		"sourceUrl": "https://cig.uw.edu/our-work/applied-research/heavy-precip-and-stormwater/",
@@ -324,7 +324,7 @@
 				],
 				"opacity": 0.8			}
 		}
-	}, 
+	},
 	"Total Suspended Solids Concentration": {
         "discrete": "FALSE",
         "log_transformed_viz": "TRUE",
@@ -465,7 +465,7 @@
         "description": "Predicted Total Zinc Concentration",
         "safe_name": "pollutant_concentration",
         "layer": {
-            "eeObject": "eeObject", 
+            "eeObject": "eeObject",
             "name": "Total Zinc",
             "visParams": {
                 "bands": "log_zinc_concentration_ug_per_L",
