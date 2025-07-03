@@ -1,0 +1,18 @@
+{
+  "type": "Catalog",
+  "id": "my-testing-catalog",
+  "stac_version": "1.0.0",
+  "description": "Catalog of STAC items with TIF images",
+  "links": [
+    {
+      "rel": "root",
+      "href": "./catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./Runoff_mm.tif/Runoff_mm.tif.json",
+      "type": "application/json"
+    }
+  ]
+}

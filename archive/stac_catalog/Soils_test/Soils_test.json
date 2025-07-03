@@ -1,0 +1,116 @@
+{
+  "type": "Feature",
+  "stac_version": "1.0.0",
+  "id": "Soils_test",
+  "properties": {
+    "proj:epsg": 3857,
+    "proj:geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -13740211.042237958,
+            6164367.383502243
+          ],
+          [
+            -13576371.042237958,
+            6164367.383502243
+          ],
+          [
+            -13576371.042237958,
+            6328207.383502243
+          ],
+          [
+            -13740211.042237958,
+            6328207.383502243
+          ],
+          [
+            -13740211.042237958,
+            6164367.383502243
+          ]
+        ]
+      ]
+    },
+    "proj:bbox": [
+      -13740211.042237958,
+      6164367.383502243,
+      -13576371.042237958,
+      6328207.383502243
+    ],
+    "proj:shape": [
+      65536,
+      65536
+    ],
+    "proj:transform": [
+      2.5,
+      0.0,
+      -13740211.042237958,
+      0.0,
+      -2.5,
+      6328207.383502243,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "datetime": "2025-06-28T03:30:54.983004Z"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -123.43041586270176,
+          48.344544542978085
+        ],
+        [
+          -121.95861610120033,
+          48.344544542978085
+        ],
+        [
+          -121.95861610120033,
+          49.31340168978564
+        ],
+        [
+          -123.43041586270176,
+          49.31340168978564
+        ],
+        [
+          -123.43041586270176,
+          48.344544542978085
+        ]
+      ]
+    ]
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "My Cloud-Optimized GeoTIFF Catalog"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "My Cloud-Optimized GeoTIFF Catalog"
+    }
+  ],
+  "assets": {
+    "image": {
+      "href": "https://storage.googleapis.com/live_data_layers/stac/Soils_test/Soils_test.tif",
+      "type": "image/tiff; application=geotiff; profile=cloud-optimized",
+      "roles": [
+        "data"
+      ]
+    }
+  },
+  "bbox": [
+    -123.43041586270176,
+    48.344544542978085,
+    -121.95861610120033,
+    49.31340168978564
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/projection/v1.1.0/schema.json"
+  ]
+}

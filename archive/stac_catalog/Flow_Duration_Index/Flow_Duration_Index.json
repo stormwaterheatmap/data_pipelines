@@ -1,0 +1,116 @@
+{
+  "type": "Feature",
+  "stac_version": "1.0.0",
+  "id": "Flow_Duration_Index",
+  "properties": {
+    "proj:epsg": 3857,
+    "proj:geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -13904050.0,
+            5875897.4638424665
+          ],
+          [
+            -13431202.159386098,
+            5875897.4638424665
+          ],
+          [
+            -13431202.159386098,
+            6328206.209447447
+          ],
+          [
+            -13904050.0,
+            6328206.209447447
+          ],
+          [
+            -13904050.0,
+            5875897.4638424665
+          ]
+        ]
+      ]
+    },
+    "proj:bbox": [
+      -13904050.0,
+      5875897.4638424665,
+      -13431202.159386098,
+      6328206.209447447
+    ],
+    "proj:shape": [
+      77627,
+      81152
+    ],
+    "proj:transform": [
+      5.826693619552227,
+      0.0,
+      -13904050.0,
+      0.0,
+      -5.826693619552227,
+      6328206.209447447,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "datetime": "2025-06-28T03:30:30.324278Z"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -124.90220626162031,
+          46.5930305799689
+        ],
+        [
+          -120.65454183875653,
+          46.5930305799689
+        ],
+        [
+          -120.65454183875653,
+          49.31339481416045
+        ],
+        [
+          -124.90220626162031,
+          49.31339481416045
+        ],
+        [
+          -124.90220626162031,
+          46.5930305799689
+        ]
+      ]
+    ]
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "My Cloud-Optimized GeoTIFF Catalog"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "My Cloud-Optimized GeoTIFF Catalog"
+    }
+  ],
+  "assets": {
+    "image": {
+      "href": "https://storage.googleapis.com/live_data_layers/stac/Flow_Duration_Index/Flow_Duration_Index.tif",
+      "type": "image/tiff; application=geotiff; profile=cloud-optimized",
+      "roles": [
+        "data"
+      ]
+    }
+  },
+  "bbox": [
+    -124.90220626162031,
+    46.5930305799689,
+    -120.65454183875653,
+    49.31339481416045
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/projection/v1.1.0/schema.json"
+  ]
+}

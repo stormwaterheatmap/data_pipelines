@@ -1,0 +1,158 @@
+{
+  "type": "Feature",
+  "stac_version": "1.0.0",
+  "id": "Precipitation_mm",
+  "properties": {
+    "proj:epsg": 3857,
+    "proj:geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -14401959.12137977,
+            5635549.2214094745
+          ],
+          [
+            -13149614.849955443,
+            5635549.2214094745
+          ],
+          [
+            -13149614.849955443,
+            6887893.4928338025
+          ],
+          [
+            -14401959.12137977,
+            6887893.4928338025
+          ],
+          [
+            -14401959.12137977,
+            5635549.2214094745
+          ]
+        ]
+      ]
+    },
+    "proj:bbox": [
+      -14401959.12137977,
+      5635549.2214094745,
+      -13149614.849955443,
+      6887893.4928338025
+    ],
+    "proj:shape": [
+      512,
+      512
+    ],
+    "proj:transform": [
+      2445.98490512564,
+      0.0,
+      -14401959.12137977,
+      0.0,
+      -2445.98490512564,
+      6887893.4928338025,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "datetime": "2025-06-30T21:47:53.608518Z"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -129.37500000000003,
+          45.08903556483102
+        ],
+        [
+          -118.125,
+          45.08903556483102
+        ],
+        [
+          -118.125,
+          52.48278022207821
+        ],
+        [
+          -129.37500000000003,
+          52.48278022207821
+        ],
+        [
+          -129.37500000000003,
+          45.08903556483102
+        ]
+      ]
+    ]
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "https://storage.googleapis.com/swhm_data/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "https://storage.googleapis.com/swhm_data/catalog.json",
+      "type": "application/json",
+      "title": "My Cloud-Optimized GeoTIFF Catalog"
+    },
+    {
+      "rel": "self",
+      "href": "https://storage.googleapis.com/swhm_data/Precipitation_mm/Precipitation_mm.json",
+      "type": "application/json"
+    }
+  ],
+  "assets": {
+    "image": {
+      "href": "https://storage.googleapis.com/swhm_data/public/layers/raster/Precipitation_mm/Precipitation_mm.tif",
+      "type": "image/tiff; application=geotiff; profile=cloud-optimized",
+      "raster:bands": [
+        {
+          "data_type": "float64",
+          "scale": 1.0,
+          "offset": 0.0,
+          "sampling": "area",
+          "statistics": {
+            "mean": 7.144546508789063e+18,
+            "minimum": 0.0,
+            "maximum": 1e+20,
+            "stddev": 2.575674874790404e+19,
+            "valid_percent": 0.0003814697265625
+          },
+          "histogram": {
+            "count": 11,
+            "min": 0.0,
+            "max": 1e+20,
+            "buckets": [
+              243415,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              18729
+            ]
+          }
+        }
+      ],
+      "eo:bands": [
+        {
+          "name": "b1",
+          "description": "gray"
+        }
+      ],
+      "roles": []
+    }
+  },
+  "bbox": [
+    -129.37500000000003,
+    45.08903556483102,
+    -118.125,
+    52.48278022207821
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/projection/v1.1.0/schema.json",
+    "https://stac-extensions.github.io/raster/v1.1.0/schema.json",
+    "https://stac-extensions.github.io/eo/v1.1.0/schema.json"
+  ]
+}

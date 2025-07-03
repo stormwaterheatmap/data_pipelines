@@ -1,0 +1,116 @@
+{
+  "type": "Feature",
+  "stac_version": "1.0.0",
+  "id": "Land_Cover",
+  "properties": {
+    "proj:epsg": 3857,
+    "proj:geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -13904201.1931867,
+            5875867.238338069
+          ],
+          [
+            -13430903.11404489,
+            5875867.238338069
+          ],
+          [
+            -13430903.11404489,
+            6328374.445786312
+          ],
+          [
+            -13904201.1931867,
+            6328374.445786312
+          ],
+          [
+            -13904201.1931867,
+            5875867.238338069
+          ]
+        ]
+      ]
+    },
+    "proj:bbox": [
+      -13904201.1931867,
+      5875867.238338069,
+      -13430903.11404489,
+      6328374.445786312
+    ],
+    "proj:shape": [
+      378880,
+      396288
+    ],
+    "proj:transform": [
+      1.194328566955879,
+      0.0,
+      -13904201.1931867,
+      0.0,
+      -1.194328566955879,
+      6328374.445786312,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "datetime": "2025-06-28T03:30:38.802814Z"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -124.90356445312499,
+          46.5928439974274
+        ],
+        [
+          -120.65185546875,
+          46.5928439974274
+        ],
+        [
+          -120.65185546875,
+          49.31438004800688
+        ],
+        [
+          -124.90356445312499,
+          49.31438004800688
+        ],
+        [
+          -124.90356445312499,
+          46.5928439974274
+        ]
+      ]
+    ]
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "My Cloud-Optimized GeoTIFF Catalog"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "My Cloud-Optimized GeoTIFF Catalog"
+    }
+  ],
+  "assets": {
+    "image": {
+      "href": "https://storage.googleapis.com/live_data_layers/stac/Land_Cover/Land_Cover.tif",
+      "type": "image/tiff; application=geotiff; profile=cloud-optimized",
+      "roles": [
+        "data"
+      ]
+    }
+  },
+  "bbox": [
+    -124.90356445312499,
+    46.5928439974274,
+    -120.65185546875,
+    49.31438004800688
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/projection/v1.1.0/schema.json"
+  ]
+}

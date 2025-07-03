@@ -1,0 +1,129 @@
+{
+  "type": "Catalog",
+  "id": "gcp-root-catalog",
+  "stac_version": "1.0.0",
+  "description": "Root catalog for all STAC items stored on Google Cloud Storage.",
+  "links": [
+    {
+      "rel": "root",
+      "href": "https://storage.googleapis.com/swhm_data/public/layers/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://storage.googleapis.com/swhm_data/public/layers/raster/Age_of_Imperviousness/Age_of_Imperviousness.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://storage.googleapis.com/swhm_data/public/layers/raster/Flow_Duration_Index/Flow_Duration_Index.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://storage.googleapis.com/swhm_data/public/layers/raster/HSPF_Land_Cover_Type/HSPF_Land_Cover_Type.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://storage.googleapis.com/swhm_data/public/layers/raster/Hydrologic_Response_Units/Hydrologic_Response_Units.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://storage.googleapis.com/swhm_data/public/layers/raster/Imperviousness/Imperviousness.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://storage.googleapis.com/swhm_data/public/layers/raster/Land_Cover/Land_Cover.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://storage.googleapis.com/swhm_data/public/layers/raster/Land_Use/Land_Use.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://storage.googleapis.com/swhm_data/public/layers/raster/Population_Density/Population_Density.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://storage.googleapis.com/swhm_data/public/layers/raster/Precipitation_mm/Precipitation_mm.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://storage.googleapis.com/swhm_data/public/layers/raster/Runoff_mm/Runoff_mm.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://storage.googleapis.com/swhm_data/public/layers/raster/Slope/Slope.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://storage.googleapis.com/swhm_data/public/layers/raster/Slope_Categories/Slope_Categories.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://storage.googleapis.com/swhm_data/public/layers/raster/Soils/Soils.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://storage.googleapis.com/swhm_data/public/layers/raster/Soils_test/Soils_test.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://storage.googleapis.com/swhm_data/public/layers/raster/Total_Copper_Concentration/Total_Copper_Concentration.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://storage.googleapis.com/swhm_data/public/layers/raster/Total_Kjeldahl_Nitrogen_Concentration/Total_Kjeldahl_Nitrogen_Concentration.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://storage.googleapis.com/swhm_data/public/layers/raster/Total_Phosphorus_Concentration/Total_Phosphorus_Concentration.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://storage.googleapis.com/swhm_data/public/layers/raster/Total_Suspended_Solids_Concentration/Total_Suspended_Solids_Concentration.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://storage.googleapis.com/swhm_data/public/layers/raster/Total_Zinc_Concentration/Total_Zinc_Concentration.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://storage.googleapis.com/swhm_data/public/layers/raster/Traffic/Traffic.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://storage.googleapis.com/swhm_data/public/layers/raster/catalog.json",
+      "type": "application/json",
+      "title": "My Cloud-Optimized GeoTIFF Catalog"
+    },
+    {
+      "rel": "item",
+      "href": "https://storage.googleapis.com/swhm_data/public/layers/raster/copper_concentration_ug_per_L.tif/copper_concentration_ug_per_L.tif.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "https://storage.googleapis.com/swhm_data/public/layers/raster/catalog.json",
+      "type": "application/json"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "type": "Feature",
+  "stac_version": "1.0.0",
+  "id": "Age_of_Imperviousness",
+  "properties": {
+    "proj:epsg": 3857,
+    "proj:geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -13904050.342789244,
+            5875896.664228426
+          ],
+          [
+            -13431205.342789244,
+            5875896.664228426
+          ],
+          [
+            -13431205.342789244,
+            6328206.664228426
+          ],
+          [
+            -13904050.342789244,
+            6328206.664228426
+          ],
+          [
+            -13904050.342789244,
+            5875896.664228426
+          ]
+        ]
+      ]
+    },
+    "proj:bbox": [
+      -13904050.342789244,
+      5875896.664228426,
+      -13431205.342789244,
+      6328206.664228426
+    ],
+    "proj:shape": [
+      30154,
+      31523
+    ],
+    "proj:transform": [
+      15.0,
+      0.0,
+      -13904050.342789244,
+      0.0,
+      -15.0,
+      6328206.664228426,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "datetime": "2025-06-28T03:30:28.262783Z"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -124.90220934094849,
+          46.593025643946405
+        ],
+        [
+          -120.65457043575353,
+          46.593025643946405
+        ],
+        [
+          -120.65457043575353,
+          49.313397477497546
+        ],
+        [
+          -124.90220934094849,
+          49.313397477497546
+        ],
+        [
+          -124.90220934094849,
+          46.593025643946405
+        ]
+      ]
+    ]
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "My Cloud-Optimized GeoTIFF Catalog"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "My Cloud-Optimized GeoTIFF Catalog"
+    }
+  ],
+  "assets": {
+    "image": {
+      "href": "https://storage.googleapis.com/live_data_layers/stac/Age_of_Imperviousness/Age_of_Imperviousness.tif",
+      "type": "image/tiff; application=geotiff; profile=cloud-optimized",
+      "roles": [
+        "data"
+      ]
+    }
+  },
+  "bbox": [
+    -124.90220934094849,
+    46.593025643946405,
+    -120.65457043575353,
+    49.313397477497546
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/projection/v1.1.0/schema.json"
+  ]
+}

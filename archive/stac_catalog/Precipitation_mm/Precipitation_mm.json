@@ -1,0 +1,116 @@
+{
+  "type": "Feature",
+  "stac_version": "1.0.0",
+  "id": "Precipitation_mm",
+  "properties": {
+    "proj:epsg": 3857,
+    "proj:geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -14401959.12137977,
+            5635549.2214094745
+          ],
+          [
+            -13149614.849955443,
+            5635549.2214094745
+          ],
+          [
+            -13149614.849955443,
+            6887893.4928338025
+          ],
+          [
+            -14401959.12137977,
+            6887893.4928338025
+          ],
+          [
+            -14401959.12137977,
+            5635549.2214094745
+          ]
+        ]
+      ]
+    },
+    "proj:bbox": [
+      -14401959.12137977,
+      5635549.2214094745,
+      -13149614.849955443,
+      6887893.4928338025
+    ],
+    "proj:shape": [
+      512,
+      512
+    ],
+    "proj:transform": [
+      2445.98490512564,
+      0.0,
+      -14401959.12137977,
+      0.0,
+      -2445.98490512564,
+      6887893.4928338025,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "datetime": "2025-06-28T03:30:45.022313Z"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -129.37500000000003,
+          45.08903556483102
+        ],
+        [
+          -118.125,
+          45.08903556483102
+        ],
+        [
+          -118.125,
+          52.48278022207821
+        ],
+        [
+          -129.37500000000003,
+          52.48278022207821
+        ],
+        [
+          -129.37500000000003,
+          45.08903556483102
+        ]
+      ]
+    ]
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "My Cloud-Optimized GeoTIFF Catalog"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "My Cloud-Optimized GeoTIFF Catalog"
+    }
+  ],
+  "assets": {
+    "image": {
+      "href": "https://storage.googleapis.com/live_data_layers/stac/Precipitation_mm/Precipitation_mm.tif",
+      "type": "image/tiff; application=geotiff; profile=cloud-optimized",
+      "roles": [
+        "data"
+      ]
+    }
+  },
+  "bbox": [
+    -129.37500000000003,
+    45.08903556483102,
+    -118.125,
+    52.48278022207821
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/projection/v1.1.0/schema.json"
+  ]
+}

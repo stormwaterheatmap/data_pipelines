@@ -1,0 +1,116 @@
+{
+  "type": "Feature",
+  "stac_version": "1.0.0",
+  "id": "Imperviousness",
+  "properties": {
+    "proj:epsg": 3857,
+    "proj:geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -13904050.1931867,
+            5875901.445786312
+          ],
+          [
+            -13431207.1931867,
+            5875901.445786312
+          ],
+          [
+            -13431207.1931867,
+            6328206.445786312
+          ],
+          [
+            -13904050.1931867,
+            6328206.445786312
+          ],
+          [
+            -13904050.1931867,
+            5875901.445786312
+          ]
+        ]
+      ]
+    },
+    "proj:bbox": [
+      -13904050.1931867,
+      5875901.445786312,
+      -13431207.1931867,
+      6328206.445786312
+    ],
+    "proj:shape": [
+      452305,
+      472843
+    ],
+    "proj:transform": [
+      0.9999999999999999,
+      0.0,
+      -13904050.1931867,
+      0.0,
+      -0.9999999999999999,
+      6328206.445786312,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "datetime": "2025-06-28T03:30:36.732738Z"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -124.90220799704598,
+          46.593055160526625
+        ],
+        [
+          -120.6545870581567,
+          46.593055160526625
+        ],
+        [
+          -120.6545870581567,
+          49.31339619823345
+        ],
+        [
+          -124.90220799704598,
+          49.31339619823345
+        ],
+        [
+          -124.90220799704598,
+          46.593055160526625
+        ]
+      ]
+    ]
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "My Cloud-Optimized GeoTIFF Catalog"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "My Cloud-Optimized GeoTIFF Catalog"
+    }
+  ],
+  "assets": {
+    "image": {
+      "href": "https://storage.googleapis.com/live_data_layers/stac/Imperviousness/Imperviousness.tif",
+      "type": "image/tiff; application=geotiff; profile=cloud-optimized",
+      "roles": [
+        "data"
+      ]
+    }
+  },
+  "bbox": [
+    -124.90220799704598,
+    46.593055160526625,
+    -120.6545870581567,
+    49.31339619823345
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/projection/v1.1.0/schema.json"
+  ]
+}

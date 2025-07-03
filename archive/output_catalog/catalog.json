@@ -1,0 +1,118 @@
+{
+  "type": "Catalog",
+  "id": "my-gcs-stac-catalog",
+  "stac_version": "1.0.0",
+  "description": "Catalog of all STAC Items in my GCS bucket",
+  "links": [
+    {
+      "rel": "root",
+      "href": "./catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./Age_of_Imperviousness.tif/Age_of_Imperviousness.tif.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./Flow_Duration_Index.tif/Flow_Duration_Index.tif.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./HSPF_Land_Cover_Type.tif/HSPF_Land_Cover_Type.tif.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./Hydrologic_Response_Units.tif/Hydrologic_Response_Units.tif.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./Imperviousness.tif/Imperviousness.tif.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./Land_Cover.tif/Land_Cover.tif.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./Land_Use.tif/Land_Use.tif.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./Population_Density.tif/Population_Density.tif.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./Precipitation_mm.tif/Precipitation_mm.tif.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./Runoff_mm.tif/Runoff_mm.tif.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./Slope.tif/Slope.tif.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./Slope_Categories.tif/Slope_Categories.tif.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./Soils.tif/Soils.tif.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./Soils_test.tif/Soils_test.tif.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./Total_Copper_Concentration.tif/Total_Copper_Concentration.tif.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./Total_Kjeldahl_Nitrogen_Concentration.tif/Total_Kjeldahl_Nitrogen_Concentration.tif.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./Total_Phosphorus_Concentration.tif/Total_Phosphorus_Concentration.tif.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./Total_Suspended_Solids_Concentration.tif/Total_Suspended_Solids_Concentration.tif.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./Total_Zinc_Concentration.tif/Total_Zinc_Concentration.tif.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./Traffic.tif/Traffic.tif.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./copper_concentration_ug_per_L.tif/copper_concentration_ug_per_L.tif.json",
+      "type": "application/json"
+    }
+  ]
+}
