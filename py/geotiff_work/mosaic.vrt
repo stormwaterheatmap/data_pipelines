@@ -1,0 +1,576 @@
+<VRTDataset rasterXSize="46347" rasterYSize="39938">
+  <SRS dataAxisToSRSAxisMapping="1,2">PROJCS["WGS 84 / Pseudo-Mercator",GEOGCS["WGS 84",DATUM["WGS_1984",SPHEROID["WGS 84",6378137,298.257223563,AUTHORITY["EPSG","7030"]],AUTHORITY["EPSG","6326"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AUTHORITY["EPSG","4326"]],PROJECTION["Mercator_1SP"],PARAMETER["central_meridian",0],PARAMETER["scale_factor",1],PARAMETER["false_easting",0],PARAMETER["false_northing",0],UNIT["metre",1,AUTHORITY["EPSG","9001"]],AXIS["Easting",EAST],AXIS["Northing",NORTH],EXTENSION["PROJ4","+proj=merc +a=6378137 +b=6378137 +lat_ts=0 +lon_0=0 +x_0=0 +y_0=0 +k=1 +units=m +nadgrids=@null +wktext +no_defs"],AUTHORITY["EPSG","3857"]]</SRS>
+  <GeoTransform> -1.3894668342789244e+07,  1.0000000000000002e+01,  0.0000000000000000e+00,  6.2752776642284263e+06,  0.0000000000000000e+00, -9.9999999999999982e+00</GeoTransform>
+  <VRTRasterBand dataType="Float64" band="1">
+    <ColorInterp>Gray</ColorInterp>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000000000-0000000000.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="10496" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="10496" />
+      <DstRect xOff="0" yOff="0" xSize="10496" ySize="10496" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000000000-0000010496.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="10496" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="10496" />
+      <DstRect xOff="10496" yOff="0" xSize="10496" ySize="10496" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000000000-0000020992.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="10496" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="10496" />
+      <DstRect xOff="20992" yOff="0" xSize="10496" ySize="10496" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000000000-0000031488.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="10496" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="10496" />
+      <DstRect xOff="31488" yOff="0" xSize="10496" ySize="10496" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000000000-0000041984.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4363" RasterYSize="10496" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="4363" ySize="10496" />
+      <DstRect xOff="41984" yOff="0" xSize="4363" ySize="10496" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000010496-0000000000.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="10496" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="10496" />
+      <DstRect xOff="0" yOff="10496" xSize="10496" ySize="10496" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000010496-0000010496.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="10496" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="10496" />
+      <DstRect xOff="10496" yOff="10496" xSize="10496" ySize="10496" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000010496-0000020992.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="10496" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="10496" />
+      <DstRect xOff="20992" yOff="10496" xSize="10496" ySize="10496" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000010496-0000031488.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="10496" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="10496" />
+      <DstRect xOff="31488" yOff="10496" xSize="10496" ySize="10496" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000010496-0000041984.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4363" RasterYSize="10496" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="4363" ySize="10496" />
+      <DstRect xOff="41984" yOff="10496" xSize="4363" ySize="10496" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000020992-0000010496.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="10496" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="10496" />
+      <DstRect xOff="10496" yOff="20992" xSize="10496" ySize="10496" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000020992-0000020992.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="10496" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="10496" />
+      <DstRect xOff="20992" yOff="20992" xSize="10496" ySize="10496" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000020992-0000031488.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="10496" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="10496" />
+      <DstRect xOff="31488" yOff="20992" xSize="10496" ySize="10496" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000031488-0000010496.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="8450" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="8450" />
+      <DstRect xOff="10496" yOff="31488" xSize="10496" ySize="8450" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000031488-0000020992.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="8450" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="8450" />
+      <DstRect xOff="20992" yOff="31488" xSize="10496" ySize="8450" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000031488-0000031488.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="8450" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="8450" />
+      <DstRect xOff="31488" yOff="31488" xSize="10496" ySize="8450" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float64" band="2">
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000000000-0000000000.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="10496" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="10496" />
+      <DstRect xOff="0" yOff="0" xSize="10496" ySize="10496" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000000000-0000010496.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="10496" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="10496" />
+      <DstRect xOff="10496" yOff="0" xSize="10496" ySize="10496" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000000000-0000020992.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="10496" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="10496" />
+      <DstRect xOff="20992" yOff="0" xSize="10496" ySize="10496" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000000000-0000031488.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="10496" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="10496" />
+      <DstRect xOff="31488" yOff="0" xSize="10496" ySize="10496" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000000000-0000041984.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="4363" RasterYSize="10496" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="4363" ySize="10496" />
+      <DstRect xOff="41984" yOff="0" xSize="4363" ySize="10496" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000010496-0000000000.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="10496" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="10496" />
+      <DstRect xOff="0" yOff="10496" xSize="10496" ySize="10496" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000010496-0000010496.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="10496" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="10496" />
+      <DstRect xOff="10496" yOff="10496" xSize="10496" ySize="10496" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000010496-0000020992.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="10496" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="10496" />
+      <DstRect xOff="20992" yOff="10496" xSize="10496" ySize="10496" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000010496-0000031488.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="10496" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="10496" />
+      <DstRect xOff="31488" yOff="10496" xSize="10496" ySize="10496" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000010496-0000041984.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="4363" RasterYSize="10496" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="4363" ySize="10496" />
+      <DstRect xOff="41984" yOff="10496" xSize="4363" ySize="10496" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000020992-0000010496.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="10496" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="10496" />
+      <DstRect xOff="10496" yOff="20992" xSize="10496" ySize="10496" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000020992-0000020992.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="10496" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="10496" />
+      <DstRect xOff="20992" yOff="20992" xSize="10496" ySize="10496" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000020992-0000031488.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="10496" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="10496" />
+      <DstRect xOff="31488" yOff="20992" xSize="10496" ySize="10496" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000031488-0000010496.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="8450" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="8450" />
+      <DstRect xOff="10496" yOff="31488" xSize="10496" ySize="8450" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000031488-0000020992.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="8450" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="8450" />
+      <DstRect xOff="20992" yOff="31488" xSize="10496" ySize="8450" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000031488-0000031488.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="8450" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="8450" />
+      <DstRect xOff="31488" yOff="31488" xSize="10496" ySize="8450" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float64" band="3">
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000000000-0000000000.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="10496" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="10496" />
+      <DstRect xOff="0" yOff="0" xSize="10496" ySize="10496" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000000000-0000010496.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="10496" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="10496" />
+      <DstRect xOff="10496" yOff="0" xSize="10496" ySize="10496" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000000000-0000020992.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="10496" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="10496" />
+      <DstRect xOff="20992" yOff="0" xSize="10496" ySize="10496" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000000000-0000031488.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="10496" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="10496" />
+      <DstRect xOff="31488" yOff="0" xSize="10496" ySize="10496" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000000000-0000041984.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="4363" RasterYSize="10496" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="4363" ySize="10496" />
+      <DstRect xOff="41984" yOff="0" xSize="4363" ySize="10496" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000010496-0000000000.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="10496" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="10496" />
+      <DstRect xOff="0" yOff="10496" xSize="10496" ySize="10496" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000010496-0000010496.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="10496" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="10496" />
+      <DstRect xOff="10496" yOff="10496" xSize="10496" ySize="10496" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000010496-0000020992.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="10496" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="10496" />
+      <DstRect xOff="20992" yOff="10496" xSize="10496" ySize="10496" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000010496-0000031488.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="10496" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="10496" />
+      <DstRect xOff="31488" yOff="10496" xSize="10496" ySize="10496" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000010496-0000041984.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="4363" RasterYSize="10496" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="4363" ySize="10496" />
+      <DstRect xOff="41984" yOff="10496" xSize="4363" ySize="10496" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000020992-0000010496.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="10496" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="10496" />
+      <DstRect xOff="10496" yOff="20992" xSize="10496" ySize="10496" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000020992-0000020992.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="10496" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="10496" />
+      <DstRect xOff="20992" yOff="20992" xSize="10496" ySize="10496" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000020992-0000031488.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="10496" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="10496" />
+      <DstRect xOff="31488" yOff="20992" xSize="10496" ySize="10496" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000031488-0000010496.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="8450" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="8450" />
+      <DstRect xOff="10496" yOff="31488" xSize="10496" ySize="8450" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000031488-0000020992.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="8450" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="8450" />
+      <DstRect xOff="20992" yOff="31488" xSize="10496" ySize="8450" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000031488-0000031488.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="8450" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="8450" />
+      <DstRect xOff="31488" yOff="31488" xSize="10496" ySize="8450" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float64" band="4">
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000000000-0000000000.tif</SourceFilename>
+      <SourceBand>4</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="10496" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="10496" />
+      <DstRect xOff="0" yOff="0" xSize="10496" ySize="10496" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000000000-0000010496.tif</SourceFilename>
+      <SourceBand>4</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="10496" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="10496" />
+      <DstRect xOff="10496" yOff="0" xSize="10496" ySize="10496" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000000000-0000020992.tif</SourceFilename>
+      <SourceBand>4</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="10496" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="10496" />
+      <DstRect xOff="20992" yOff="0" xSize="10496" ySize="10496" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000000000-0000031488.tif</SourceFilename>
+      <SourceBand>4</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="10496" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="10496" />
+      <DstRect xOff="31488" yOff="0" xSize="10496" ySize="10496" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000000000-0000041984.tif</SourceFilename>
+      <SourceBand>4</SourceBand>
+      <SourceProperties RasterXSize="4363" RasterYSize="10496" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="4363" ySize="10496" />
+      <DstRect xOff="41984" yOff="0" xSize="4363" ySize="10496" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000010496-0000000000.tif</SourceFilename>
+      <SourceBand>4</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="10496" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="10496" />
+      <DstRect xOff="0" yOff="10496" xSize="10496" ySize="10496" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000010496-0000010496.tif</SourceFilename>
+      <SourceBand>4</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="10496" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="10496" />
+      <DstRect xOff="10496" yOff="10496" xSize="10496" ySize="10496" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000010496-0000020992.tif</SourceFilename>
+      <SourceBand>4</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="10496" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="10496" />
+      <DstRect xOff="20992" yOff="10496" xSize="10496" ySize="10496" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000010496-0000031488.tif</SourceFilename>
+      <SourceBand>4</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="10496" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="10496" />
+      <DstRect xOff="31488" yOff="10496" xSize="10496" ySize="10496" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000010496-0000041984.tif</SourceFilename>
+      <SourceBand>4</SourceBand>
+      <SourceProperties RasterXSize="4363" RasterYSize="10496" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="4363" ySize="10496" />
+      <DstRect xOff="41984" yOff="10496" xSize="4363" ySize="10496" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000020992-0000010496.tif</SourceFilename>
+      <SourceBand>4</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="10496" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="10496" />
+      <DstRect xOff="10496" yOff="20992" xSize="10496" ySize="10496" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000020992-0000020992.tif</SourceFilename>
+      <SourceBand>4</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="10496" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="10496" />
+      <DstRect xOff="20992" yOff="20992" xSize="10496" ySize="10496" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000020992-0000031488.tif</SourceFilename>
+      <SourceBand>4</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="10496" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="10496" />
+      <DstRect xOff="31488" yOff="20992" xSize="10496" ySize="10496" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000031488-0000010496.tif</SourceFilename>
+      <SourceBand>4</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="8450" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="8450" />
+      <DstRect xOff="10496" yOff="31488" xSize="10496" ySize="8450" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000031488-0000020992.tif</SourceFilename>
+      <SourceBand>4</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="8450" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="8450" />
+      <DstRect xOff="20992" yOff="31488" xSize="10496" ySize="8450" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000031488-0000031488.tif</SourceFilename>
+      <SourceBand>4</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="8450" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="8450" />
+      <DstRect xOff="31488" yOff="31488" xSize="10496" ySize="8450" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float64" band="5">
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000000000-0000000000.tif</SourceFilename>
+      <SourceBand>5</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="10496" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="10496" />
+      <DstRect xOff="0" yOff="0" xSize="10496" ySize="10496" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000000000-0000010496.tif</SourceFilename>
+      <SourceBand>5</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="10496" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="10496" />
+      <DstRect xOff="10496" yOff="0" xSize="10496" ySize="10496" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000000000-0000020992.tif</SourceFilename>
+      <SourceBand>5</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="10496" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="10496" />
+      <DstRect xOff="20992" yOff="0" xSize="10496" ySize="10496" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000000000-0000031488.tif</SourceFilename>
+      <SourceBand>5</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="10496" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="10496" />
+      <DstRect xOff="31488" yOff="0" xSize="10496" ySize="10496" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000000000-0000041984.tif</SourceFilename>
+      <SourceBand>5</SourceBand>
+      <SourceProperties RasterXSize="4363" RasterYSize="10496" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="4363" ySize="10496" />
+      <DstRect xOff="41984" yOff="0" xSize="4363" ySize="10496" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000010496-0000000000.tif</SourceFilename>
+      <SourceBand>5</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="10496" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="10496" />
+      <DstRect xOff="0" yOff="10496" xSize="10496" ySize="10496" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000010496-0000010496.tif</SourceFilename>
+      <SourceBand>5</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="10496" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="10496" />
+      <DstRect xOff="10496" yOff="10496" xSize="10496" ySize="10496" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000010496-0000020992.tif</SourceFilename>
+      <SourceBand>5</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="10496" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="10496" />
+      <DstRect xOff="20992" yOff="10496" xSize="10496" ySize="10496" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000010496-0000031488.tif</SourceFilename>
+      <SourceBand>5</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="10496" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="10496" />
+      <DstRect xOff="31488" yOff="10496" xSize="10496" ySize="10496" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000010496-0000041984.tif</SourceFilename>
+      <SourceBand>5</SourceBand>
+      <SourceProperties RasterXSize="4363" RasterYSize="10496" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="4363" ySize="10496" />
+      <DstRect xOff="41984" yOff="10496" xSize="4363" ySize="10496" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000020992-0000010496.tif</SourceFilename>
+      <SourceBand>5</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="10496" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="10496" />
+      <DstRect xOff="10496" yOff="20992" xSize="10496" ySize="10496" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000020992-0000020992.tif</SourceFilename>
+      <SourceBand>5</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="10496" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="10496" />
+      <DstRect xOff="20992" yOff="20992" xSize="10496" ySize="10496" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000020992-0000031488.tif</SourceFilename>
+      <SourceBand>5</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="10496" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="10496" />
+      <DstRect xOff="31488" yOff="20992" xSize="10496" ySize="10496" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000031488-0000010496.tif</SourceFilename>
+      <SourceBand>5</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="8450" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="8450" />
+      <DstRect xOff="10496" yOff="31488" xSize="10496" ySize="8450" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000031488-0000020992.tif</SourceFilename>
+      <SourceBand>5</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="8450" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="8450" />
+      <DstRect xOff="20992" yOff="31488" xSize="10496" ySize="8450" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/predictors_centered_scaled0000031488-0000031488.tif</SourceFilename>
+      <SourceBand>5</SourceBand>
+      <SourceProperties RasterXSize="10496" RasterYSize="8450" DataType="Float64" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="10496" ySize="8450" />
+      <DstRect xOff="31488" yOff="31488" xSize="10496" ySize="8450" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <OverviewList resampling="nearest">2 4 8 16 32</OverviewList>
+</VRTDataset>

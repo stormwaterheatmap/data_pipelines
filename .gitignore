@@ -133,3 +133,5 @@ models/.DS_Store
 *.xml
 ipynb/data/.DS_Store
 ipynb/Untitled.ipynb
+.claude
+.Rproj.user

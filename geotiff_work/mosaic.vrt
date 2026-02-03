@@ -1,0 +1,1687 @@
+<VRTDataset rasterXSize="926917" rasterYSize="536427">
+  <SRS dataAxisToSRSAxisMapping="2,1">GEOGCS["WGS 84",DATUM["WGS_1984",SPHEROID["WGS 84",6378137,298.257223563,AUTHORITY["EPSG","7030"]],AUTHORITY["EPSG","6326"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AXIS["Latitude",NORTH],AXIS["Longitude",EAST],AUTHORITY["EPSG","4326"]]</SRS>
+  <GeoTransform> -1.2481791284693496e+02,  4.4915764205976096e-06,  0.0000000000000000e+00,  4.9002456453291749e+01,  0.0000000000000000e+00, -4.4915764205976096e-06</GeoTransform>
+  <VRTRasterBand dataType="UInt16" band="1">
+    <ColorInterp>Gray</ColorInterp>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000000000-0000000000.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000000000-0000046592.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="46592" yOff="0" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000000000-0000093184.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="93184" yOff="0" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000000000-0000139776.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="139776" yOff="0" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000000000-0000186368.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="186368" yOff="0" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000000000-0000232960.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="232960" yOff="0" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000000000-0000279552.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="279552" yOff="0" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000000000-0000326144.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="326144" yOff="0" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000000000-0000372736.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="372736" yOff="0" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000000000-0000419328.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="419328" yOff="0" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000000000-0000465920.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="465920" yOff="0" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000000000-0000512512.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="512512" yOff="0" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000000000-0000559104.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="559104" yOff="0" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000000000-0000605696.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="605696" yOff="0" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000000000-0000652288.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="652288" yOff="0" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000000000-0000698880.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="698880" yOff="0" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000000000-0000745472.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="745472" yOff="0" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000000000-0000792064.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="792064" yOff="0" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000000000-0000838656.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="838656" yOff="0" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000000000-0000885248.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="41669" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="41669" ySize="46592" />
+      <DstRect xOff="885248" yOff="0" xSize="41669" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000046592-0000000000.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="0" yOff="46592" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000046592-0000046592.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="46592" yOff="46592" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000046592-0000093184.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="93184" yOff="46592" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000046592-0000139776.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="139776" yOff="46592" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000046592-0000186368.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="186368" yOff="46592" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000046592-0000232960.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="232960" yOff="46592" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000046592-0000279552.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="279552" yOff="46592" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000046592-0000326144.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="326144" yOff="46592" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000046592-0000372736.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="372736" yOff="46592" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000046592-0000419328.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="419328" yOff="46592" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000046592-0000465920.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="465920" yOff="46592" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000046592-0000512512.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="512512" yOff="46592" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000046592-0000559104.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="559104" yOff="46592" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000046592-0000605696.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="605696" yOff="46592" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000046592-0000652288.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="652288" yOff="46592" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000046592-0000698880.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="698880" yOff="46592" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000046592-0000745472.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="745472" yOff="46592" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000046592-0000792064.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="792064" yOff="46592" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000046592-0000838656.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="838656" yOff="46592" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000046592-0000885248.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="41669" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="41669" ySize="46592" />
+      <DstRect xOff="885248" yOff="46592" xSize="41669" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000093184-0000000000.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="0" yOff="93184" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000093184-0000046592.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="46592" yOff="93184" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000093184-0000093184.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="93184" yOff="93184" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000093184-0000139776.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="139776" yOff="93184" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000093184-0000186368.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="186368" yOff="93184" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000093184-0000232960.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="232960" yOff="93184" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000093184-0000279552.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="279552" yOff="93184" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000093184-0000326144.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="326144" yOff="93184" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000093184-0000372736.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="372736" yOff="93184" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000093184-0000419328.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="419328" yOff="93184" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000093184-0000465920.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="465920" yOff="93184" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000093184-0000512512.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="512512" yOff="93184" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000093184-0000559104.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="559104" yOff="93184" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000093184-0000605696.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="605696" yOff="93184" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000093184-0000652288.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="652288" yOff="93184" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000093184-0000698880.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="698880" yOff="93184" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000093184-0000745472.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="745472" yOff="93184" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000093184-0000792064.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="792064" yOff="93184" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000093184-0000838656.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="838656" yOff="93184" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000093184-0000885248.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="41669" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="41669" ySize="46592" />
+      <DstRect xOff="885248" yOff="93184" xSize="41669" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000139776-0000000000.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="0" yOff="139776" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000139776-0000046592.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="46592" yOff="139776" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000139776-0000093184.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="93184" yOff="139776" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000139776-0000139776.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="139776" yOff="139776" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000139776-0000186368.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="186368" yOff="139776" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000139776-0000232960.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="232960" yOff="139776" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000139776-0000279552.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="279552" yOff="139776" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000139776-0000326144.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="326144" yOff="139776" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000139776-0000372736.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="372736" yOff="139776" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000139776-0000419328.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="419328" yOff="139776" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000139776-0000465920.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="465920" yOff="139776" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000139776-0000512512.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="512512" yOff="139776" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000139776-0000559104.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="559104" yOff="139776" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000139776-0000605696.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="605696" yOff="139776" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000139776-0000652288.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="652288" yOff="139776" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000139776-0000698880.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="698880" yOff="139776" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000139776-0000745472.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="745472" yOff="139776" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000139776-0000792064.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="792064" yOff="139776" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000139776-0000838656.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="838656" yOff="139776" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000139776-0000885248.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="41669" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="41669" ySize="46592" />
+      <DstRect xOff="885248" yOff="139776" xSize="41669" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000186368-0000000000.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="0" yOff="186368" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000186368-0000046592.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="46592" yOff="186368" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000186368-0000093184.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="93184" yOff="186368" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000186368-0000139776.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="139776" yOff="186368" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000186368-0000186368.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="186368" yOff="186368" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000186368-0000232960.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="232960" yOff="186368" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000186368-0000279552.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="279552" yOff="186368" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000186368-0000326144.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="326144" yOff="186368" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000186368-0000372736.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="372736" yOff="186368" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000186368-0000419328.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="419328" yOff="186368" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000186368-0000465920.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="465920" yOff="186368" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000186368-0000512512.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="512512" yOff="186368" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000186368-0000559104.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="559104" yOff="186368" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000186368-0000605696.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="605696" yOff="186368" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000186368-0000652288.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="652288" yOff="186368" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000186368-0000698880.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="698880" yOff="186368" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000186368-0000745472.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="745472" yOff="186368" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000186368-0000792064.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="792064" yOff="186368" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000186368-0000838656.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="838656" yOff="186368" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000186368-0000885248.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="41669" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="41669" ySize="46592" />
+      <DstRect xOff="885248" yOff="186368" xSize="41669" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000232960-0000000000.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="0" yOff="232960" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000232960-0000046592.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="46592" yOff="232960" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000232960-0000093184.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="93184" yOff="232960" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000232960-0000139776.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="139776" yOff="232960" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000232960-0000186368.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="186368" yOff="232960" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000232960-0000232960.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="232960" yOff="232960" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000232960-0000279552.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="279552" yOff="232960" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000232960-0000326144.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="326144" yOff="232960" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000232960-0000372736.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="372736" yOff="232960" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000232960-0000419328.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="419328" yOff="232960" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000232960-0000465920.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="465920" yOff="232960" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000232960-0000512512.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="512512" yOff="232960" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000232960-0000559104.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="559104" yOff="232960" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000232960-0000605696.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="605696" yOff="232960" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000232960-0000652288.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="652288" yOff="232960" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000232960-0000698880.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="698880" yOff="232960" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000232960-0000745472.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="745472" yOff="232960" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000232960-0000792064.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="792064" yOff="232960" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000232960-0000838656.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="838656" yOff="232960" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000232960-0000885248.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="41669" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="41669" ySize="46592" />
+      <DstRect xOff="885248" yOff="232960" xSize="41669" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000279552-0000000000.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="0" yOff="279552" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000279552-0000046592.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="46592" yOff="279552" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000279552-0000093184.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="93184" yOff="279552" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000279552-0000139776.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="139776" yOff="279552" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000279552-0000186368.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="186368" yOff="279552" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000279552-0000232960.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="232960" yOff="279552" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000279552-0000279552.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="279552" yOff="279552" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000279552-0000326144.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="326144" yOff="279552" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000279552-0000372736.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="372736" yOff="279552" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000279552-0000419328.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="419328" yOff="279552" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000279552-0000465920.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="465920" yOff="279552" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000279552-0000512512.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="512512" yOff="279552" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000279552-0000559104.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="559104" yOff="279552" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000279552-0000605696.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="605696" yOff="279552" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000279552-0000652288.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="652288" yOff="279552" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000279552-0000698880.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="698880" yOff="279552" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000279552-0000745472.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="745472" yOff="279552" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000279552-0000792064.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="792064" yOff="279552" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000279552-0000838656.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="838656" yOff="279552" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000279552-0000885248.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="41669" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="41669" ySize="46592" />
+      <DstRect xOff="885248" yOff="279552" xSize="41669" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000326144-0000000000.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="0" yOff="326144" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000326144-0000046592.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="46592" yOff="326144" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000326144-0000093184.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="93184" yOff="326144" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000326144-0000139776.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="139776" yOff="326144" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000326144-0000186368.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="186368" yOff="326144" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000326144-0000232960.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="232960" yOff="326144" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000326144-0000279552.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="279552" yOff="326144" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000326144-0000326144.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="326144" yOff="326144" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000326144-0000372736.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="372736" yOff="326144" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000326144-0000419328.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="419328" yOff="326144" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000326144-0000465920.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="465920" yOff="326144" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000326144-0000512512.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="512512" yOff="326144" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000326144-0000559104.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="559104" yOff="326144" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000326144-0000605696.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="605696" yOff="326144" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000326144-0000652288.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="652288" yOff="326144" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000326144-0000698880.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="698880" yOff="326144" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000326144-0000745472.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="745472" yOff="326144" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000326144-0000792064.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="792064" yOff="326144" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000326144-0000838656.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="838656" yOff="326144" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000326144-0000885248.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="41669" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="41669" ySize="46592" />
+      <DstRect xOff="885248" yOff="326144" xSize="41669" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000372736-0000000000.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="0" yOff="372736" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000372736-0000046592.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="46592" yOff="372736" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000372736-0000093184.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="93184" yOff="372736" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000372736-0000139776.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="139776" yOff="372736" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000372736-0000186368.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="186368" yOff="372736" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000372736-0000232960.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="232960" yOff="372736" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000372736-0000279552.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="279552" yOff="372736" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000372736-0000326144.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="326144" yOff="372736" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000372736-0000372736.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="372736" yOff="372736" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000372736-0000419328.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="419328" yOff="372736" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000372736-0000465920.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="465920" yOff="372736" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000372736-0000512512.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="512512" yOff="372736" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000372736-0000559104.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="559104" yOff="372736" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000372736-0000605696.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="605696" yOff="372736" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000372736-0000652288.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="652288" yOff="372736" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000372736-0000698880.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="698880" yOff="372736" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000372736-0000745472.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="745472" yOff="372736" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000372736-0000792064.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="792064" yOff="372736" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000372736-0000838656.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="838656" yOff="372736" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000372736-0000885248.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="41669" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="41669" ySize="46592" />
+      <DstRect xOff="885248" yOff="372736" xSize="41669" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000419328-0000000000.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="0" yOff="419328" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000419328-0000046592.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="46592" yOff="419328" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000419328-0000093184.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="93184" yOff="419328" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000419328-0000139776.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="139776" yOff="419328" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000419328-0000186368.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="186368" yOff="419328" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000419328-0000232960.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="232960" yOff="419328" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000419328-0000279552.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="279552" yOff="419328" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000419328-0000326144.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="326144" yOff="419328" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000419328-0000372736.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="372736" yOff="419328" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000419328-0000419328.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="419328" yOff="419328" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000419328-0000465920.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="465920" yOff="419328" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000419328-0000512512.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="512512" yOff="419328" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000419328-0000559104.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="559104" yOff="419328" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000419328-0000605696.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="605696" yOff="419328" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000419328-0000652288.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="652288" yOff="419328" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000419328-0000698880.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="698880" yOff="419328" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000419328-0000745472.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="745472" yOff="419328" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000419328-0000792064.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="792064" yOff="419328" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000419328-0000838656.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="838656" yOff="419328" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000419328-0000885248.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="41669" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="41669" ySize="46592" />
+      <DstRect xOff="885248" yOff="419328" xSize="41669" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000465920-0000000000.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="0" yOff="465920" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000465920-0000046592.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="46592" yOff="465920" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000465920-0000093184.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="93184" yOff="465920" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000465920-0000139776.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="139776" yOff="465920" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000465920-0000186368.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="186368" yOff="465920" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000465920-0000232960.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="232960" yOff="465920" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000465920-0000279552.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="279552" yOff="465920" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000465920-0000326144.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="326144" yOff="465920" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000465920-0000372736.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="372736" yOff="465920" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000465920-0000419328.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="419328" yOff="465920" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000465920-0000465920.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="465920" yOff="465920" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000465920-0000512512.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="512512" yOff="465920" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000465920-0000559104.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="559104" yOff="465920" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000465920-0000605696.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="605696" yOff="465920" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000465920-0000652288.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="652288" yOff="465920" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000465920-0000698880.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="698880" yOff="465920" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000465920-0000745472.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="745472" yOff="465920" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000465920-0000792064.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="792064" yOff="465920" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000465920-0000838656.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="46592" />
+      <DstRect xOff="838656" yOff="465920" xSize="46592" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000465920-0000885248.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="41669" RasterYSize="46592" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="41669" ySize="46592" />
+      <DstRect xOff="885248" yOff="465920" xSize="41669" ySize="46592" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000512512-0000000000.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="23915" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="23915" />
+      <DstRect xOff="0" yOff="512512" xSize="46592" ySize="23915" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000512512-0000046592.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="23915" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="23915" />
+      <DstRect xOff="46592" yOff="512512" xSize="46592" ySize="23915" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000512512-0000093184.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="23915" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="23915" />
+      <DstRect xOff="93184" yOff="512512" xSize="46592" ySize="23915" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000512512-0000139776.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="23915" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="23915" />
+      <DstRect xOff="139776" yOff="512512" xSize="46592" ySize="23915" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000512512-0000186368.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="23915" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="23915" />
+      <DstRect xOff="186368" yOff="512512" xSize="46592" ySize="23915" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000512512-0000232960.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="23915" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="23915" />
+      <DstRect xOff="232960" yOff="512512" xSize="46592" ySize="23915" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000512512-0000279552.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="23915" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="23915" />
+      <DstRect xOff="279552" yOff="512512" xSize="46592" ySize="23915" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000512512-0000326144.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="23915" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="23915" />
+      <DstRect xOff="326144" yOff="512512" xSize="46592" ySize="23915" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000512512-0000372736.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="23915" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="23915" />
+      <DstRect xOff="372736" yOff="512512" xSize="46592" ySize="23915" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000512512-0000419328.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="23915" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="23915" />
+      <DstRect xOff="419328" yOff="512512" xSize="46592" ySize="23915" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000512512-0000465920.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="23915" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="23915" />
+      <DstRect xOff="465920" yOff="512512" xSize="46592" ySize="23915" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000512512-0000512512.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="23915" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="23915" />
+      <DstRect xOff="512512" yOff="512512" xSize="46592" ySize="23915" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000512512-0000559104.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="23915" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="23915" />
+      <DstRect xOff="559104" yOff="512512" xSize="46592" ySize="23915" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000512512-0000605696.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="23915" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="23915" />
+      <DstRect xOff="605696" yOff="512512" xSize="46592" ySize="23915" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000512512-0000652288.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="23915" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="23915" />
+      <DstRect xOff="652288" yOff="512512" xSize="46592" ySize="23915" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000512512-0000698880.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="23915" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="23915" />
+      <DstRect xOff="698880" yOff="512512" xSize="46592" ySize="23915" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000512512-0000745472.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="23915" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="23915" />
+      <DstRect xOff="745472" yOff="512512" xSize="46592" ySize="23915" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000512512-0000792064.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="23915" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="23915" />
+      <DstRect xOff="792064" yOff="512512" xSize="46592" ySize="23915" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000512512-0000838656.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="46592" RasterYSize="23915" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="46592" ySize="23915" />
+      <DstRect xOff="838656" yOff="512512" xSize="46592" ySize="23915" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">downloads/building_height0000512512-0000885248.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="41669" RasterYSize="23915" DataType="UInt16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="41669" ySize="23915" />
+      <DstRect xOff="885248" yOff="512512" xSize="41669" ySize="23915" />
+    </SimpleSource>
+  </VRTRasterBand>
+</VRTDataset>

@@ -1,0 +1,22 @@
+from scipy.stats import multivariate_normal
+import numpy as np
+import matplotlib.pyplot as plt
+
+# Create grid
+x, y = np.meshgrid(np.linspace(-3, 3, 100), np.linspace(-3, 3, 100))
+pos = np.dstack((x, y))
+
+# Mean and covariance for 2D Gaussian
+mu = [0, 0]
+sigma = [[1, 0], [0, 1]]
+rv = multivariate_normal(mu, sigma)
+
+plt.imshow(rv.pdf(pos), cmap='hot', extent=(-3, 3, -3, 3))
+plt.title('2D Gaussian Kernel Heatmap')
+plt.xlabel('X')
+plt.ylabel('Y')
+plt.colorbar(label='Weight')
+
+# Add watermark text
+plt.text(-2.8, 2.6, 'GeeksforGeeks', fontsize=12, color='green', alpha=0.6)
+plt.show()
